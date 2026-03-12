@@ -1,4 +1,4 @@
-# DS9000-FlightDelayPrediction
+# Flight Delay Predicter
 
 ## Data set
 The dataset couldn't be uploaded to GitHub due to size limits, but a link is provided below. The dataset can be reproduced by following the data preprocessing steps outlined here.
